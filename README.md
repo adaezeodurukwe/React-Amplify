@@ -7,6 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 If you don't have amplify cli installed globally, run
 ### `npm install -g @aws-amplify/cli`
 
+install packages by running
+### `yarn`
+
 in the project directory, initialize amplify
 ### `amplify init`
 
